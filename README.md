@@ -21,17 +21,7 @@ The datasets used for this work can be accessed by cloning this link: [https://g
 
 ## Code 
 
-The code can be found inside the "Code" folder. It contains code for both the problem statements.
-
-## Execution steps
-
-Please follow the below instructions to run the code:
-
-1. Go to "Code" folder. 
-2. The file can be accessed by clicking on ms22749_dissertation.ipynb file. Google collab [https://colab.google/](https://colab.google/) or Jupiter notebook [https://jupyter.org/](https://jupyter.org/) or [https://code.visualstudio.com/](https://code.visualstudio.com/) can be used to open the code.
-2. Please run all the cells in sequential order.
-3. Follow the Text cells for descriptions of the code cells and inferences. Inferences and comments are added wherever needed.
-5. Execution of some code cells like hypertuning using gridSearchCV,plots,training of Interactive Regression Model etc.,may take longer execution time due to its complexity and the number of records in the dataset.
+The code file is more than 25 MB and therefore not present in this repo. Please email me for code file if needed. 
 
 
 ## Dependencies/Required libraries
